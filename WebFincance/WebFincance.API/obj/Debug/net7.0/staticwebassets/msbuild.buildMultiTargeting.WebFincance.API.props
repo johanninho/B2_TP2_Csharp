@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebFincance.API.props" />
+</Project>

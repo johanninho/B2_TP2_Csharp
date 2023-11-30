@@ -1,0 +1,7 @@
+C:\Users\johan\source\repos\WebFincance\WebFincance.API\obj\Debug\net7.0\WebFinance.API.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\WebFincance\WebFincance.API\obj\Debug\net7.0\WebFinance.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\WebFincance\WebFincance.API\obj\Debug\net7.0\WebFinance.API.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\WebFincance\WebFincance.API\obj\Debug\net7.0\WebFinance.API.AssemblyInfo.cs
+C:\Users\johan\source\repos\WebFincance\WebFincance.API\obj\Debug\net7.0\WebFinance.API.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\WebFincance\WebFincance.API\obj\Debug\net7.0\WebFinance.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\johan\source\repos\WebFincance\WebFincance.API\obj\Debug\net7.0\WebFinance.API.MvcApplicationPartsAssemblyInfo.cache
